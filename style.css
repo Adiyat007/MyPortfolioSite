@@ -77,12 +77,12 @@ footer {
     margin-top: 40px;
 }
 .me img{
-    width: 500;
+    width: 500px;
     height: auto;
     border-radius: 7px;
 }
 .container img{
-    display: flexbox;
+    
     width: 300px;
     height: auto;
     justify-content: space-between;

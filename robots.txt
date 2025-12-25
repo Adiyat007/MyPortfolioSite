@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adiyat007.github.io/MyPortfolioSite/sitemap.xml
